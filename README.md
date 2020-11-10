@@ -1,6 +1,6 @@
 # Code Samples
 
-A collection of code samples.
+A collection of code samples with descriptions and example usage.
 
 ___
 

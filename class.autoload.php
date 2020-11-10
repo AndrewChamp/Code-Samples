@@ -1,10 +1,5 @@
 <?php
 
-	/**
-	 *	NOTE: 		The $_directories paramater needs to be an absolute server path to the file.
-	 *	Example:	'/home/user/public_html/file.php'
-	 */
-
 	class autoload{
 		
 		public $directories;

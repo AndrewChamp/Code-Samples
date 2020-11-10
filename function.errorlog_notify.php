@@ -6,7 +6,6 @@
 	$subject = 'ErrorLog Alert ('.$domain.')';
 	$path = '/home/directory/public_html';
 	$errorlog = 'error_log';
-	
 
 	function rglob($pattern, $flags = 0, $path=''){
 	    if(!$path && ($dir = dirname($pattern)) != '.'):

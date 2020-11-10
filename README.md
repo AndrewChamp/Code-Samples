@@ -16,7 +16,7 @@ ___
 
 ___
 
-## [class.recaptcha.php](../blob/main/class.recaptcha.php)
+## [class.recaptcha.php](/blob/main/class.recaptcha.php)
 
 Simple PHP class for reCAPTCHA verification.  Can be used to easily work into any framework, or by itself.
 

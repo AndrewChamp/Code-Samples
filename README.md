@@ -8,7 +8,10 @@ A collection of code samples.
 
 ## class.page.php
 
+## class.recaptcha.php
+
 ## class.url_parser.php
 
 ## dancing-cat-bookmarklet.html
 
+## function.errorlog_notify.php

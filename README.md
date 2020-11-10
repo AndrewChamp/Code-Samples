@@ -55,6 +55,7 @@ ___
 
 ## [class.page.php](class.page.php)
 
+Example script of pulling page content from database based on the URI.  If the lookup of the `page` doesn't exist it will return a *404*.
 ___
 
 ## [class.recaptcha.php](class.recaptcha.php)
@@ -125,7 +126,7 @@ ___
 
 ## [dancing-cat-bookmarklet.html](dancing-cat-bookmarklet.html)
 
-Put a dancing cat on any website... because, why not? ¯\_(ツ)_/¯ 
+Put a dancing cat on any website... because, why not? ¯\\\_(ツ)\_/¯
 
 ### Setup / How To Use
 

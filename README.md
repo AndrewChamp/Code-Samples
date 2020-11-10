@@ -55,7 +55,7 @@ ___
 
 ## [class.page.php](class.page.php)
 
-Example script of pulling page content from database based on the URI.  If the lookup of the `page` doesn't exist it will return a *404*.
+Example script of pulling page content from database based on the URI.  If the lookup of the *page* doesn't exist it will return an error `404` status code.
 ___
 
 ## [class.recaptcha.php](class.recaptcha.php)
